@@ -1,0 +1,9 @@
+body {
+    background-color: darkblue;
+}
+
+.box {
+    color: lightgray;
+    width: 50%;
+    margin: 10rem auto;
+}
